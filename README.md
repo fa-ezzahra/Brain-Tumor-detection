@@ -16,12 +16,13 @@ This project uses a Convolutional Neural Network (CNN) built with PyTorch to det
    ```
 2. **Install Dependencies**:
    ```bash
-  !pip install split-folders
-  !pip install torch-summary
+   !pip install split-folders
+   !pip install torch-summary
    ```
 3. **Prepare Dataset**: Place your dataset in the `data/` folder with categories `tumor` and `no_tumor`.
 4. **Run the Notebook**:
    ```bash
    jupyter notebook brain-tumor-detection-using-cnn.ipynb
    ```
+
 
